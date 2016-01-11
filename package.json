@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-manager-user",
+  "version": "1.0.0",
+  "description": "NodeJs manager user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asvdaivp/PDNodeJs_ManagerUser.git"
+  },
+  "author": "DaiVP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asvdaivp/PDNodeJs_ManagerUser/issues"
+  },
+  "homepage": "https://github.com/asvdaivp/PDNodeJs_ManagerUser#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
